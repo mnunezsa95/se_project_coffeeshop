@@ -8,6 +8,10 @@
   background-repeat: no-repeat;
 }
 
+.reservations__form {
+  margin: 0 auto;
+}
+
 .reservation__title {
   font-size: 44px;
   font-style: normal;
