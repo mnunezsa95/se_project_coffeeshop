@@ -1,15 +1,14 @@
 .header {
   background-color: #ffffff;
   background-image: url(../images/background_header.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: center no-repeat cover;
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  position: relative;
 }
 
 .header__title {
