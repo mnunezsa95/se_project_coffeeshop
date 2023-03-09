@@ -37,7 +37,7 @@
   color: #838383;
   border-color: #838383;
   border-width: 1px;
-  padding: 0px;
+  padding: 0 20px 0 20px;
 }
 
 .form__button {
@@ -53,6 +53,7 @@
   margin: 32px 0 32px 0;
   padding: 0px;
   transition: opacity 1s linear;
+  cursor: pointer;
 }
 
 .form__button:hover {
