@@ -1,7 +1,7 @@
 .recipes {
   margin: 0;
   background-color: #0a2750;
-  background-image: url(/images/background_recipes.svg);
+  background-image: url(../images/background_recipes.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
