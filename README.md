@@ -1,5 +1,7 @@
 # TripleTen Coffee Shop (Landing Page)
 
+### Overview
+
 - Intro - About the project
 - Description of the Project
 - Technologies
