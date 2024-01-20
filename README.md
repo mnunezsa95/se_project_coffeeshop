@@ -1,18 +1,34 @@
-# Practicum Coffee Shop
+# TripleTen Coffee Shop (Landing Page)
 
-This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief. The purpose of this project was to 
-create a the website for a coffeeshop that includes, a landing page, a variety of sections allowing customers to see recipes, make a reservation and see the site's menu.
+- Intro - About the project
+- Description of the Project
+- Technologies
+- Links
+- Plans for Improvement
 
-## Project features
+### Intro - About the project
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM
-- A custom form
-- CSS animation, transitions and transformations
+The purpose of this project was to develop a website for a coffee shop encompassing key elements such as a landing page, various sections enabling customers to explore recipes, make reservations, and peruse the site's menu.
 
-## Plan on improving the project
+### Description of the Project
 
-Revisit the webiste to improve comtability with several devices (smartphones, tablets, etc) and improve the code to make it easier to read and make edits further down the 
-line. 
+The landing page was crafted using HTML and CSS, incorporating semantic HTML for structural clarity. CSS transitions and animations were employed to enhance the visual appeal and interactivity of the page.
+
+### Technologies
+
+- Frontend: HTML5, CSS3
+- Features:
+  - Semantic HTML
+  - Flexbox
+  - Positioning
+  - A custom form
+  - CSS animation, transitions and transformations
+
+### Links
+
+- The [live](https://mnunezsa95.github.io/se_project_coffeeshop/) page is hosted on GitHub Pages.
+
+### Plans for Improvement
+
+- Revisit the website to enhance compatibility with various devices, including smartphones and tablets.
+- Improve the code to enhance readability and facilitate easier edits in the future.
